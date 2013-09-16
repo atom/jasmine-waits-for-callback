@@ -1,0 +1,36 @@
+{
+  "name": "jasmine-waits-for-callback",
+  "version": "0.0.0",
+  "description": "Allows jasmine waitsFor blocks to take 1 or more callbacks",
+  "main": "lib/waits-for-callback",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jasmine",
+    "async",
+    "spec",
+    "test"
+  ],
+  "author": "Nathan Sobo",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/atom/telepath/raw/master/LICENSE.md"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/atom/jasmine-waits-for-callback.git"
+  },
+  "devDependencies": {
+    "coffee-script": "~1.6.3",
+    "jasmine-focused": "~0.12.0",
+    "grunt-contrib-coffee": "~0.7.0",
+    "grunt-cli": "~0.1.8",
+    "grunt": "~0.4.1",
+    "grunt-shell": "~0.2.2",
+    "grunt-coffeelint": "0.0.6",
+    "rimraf": "~2.2.2"
+  }
+}
