@@ -1,4 +1,5 @@
-# Jasmine Waits-For-Callback Extension
+##### Atom and all repositories under Atom will be archived on December 15, 2022. Learn more in our [official announcement](https://github.blog/2022-06-08-sunsetting-atom/)
+ # Jasmine Waits-For-Callback Extension
 
 This module extends jasmine `waitsFor` blocks with a useful feature for async
 testing. Normally, jasmine will poll the latch function you pass to `waitsFor`
